@@ -2,7 +2,7 @@
 title: I will just post updates here
 date: 2022-08-19
 description: Why not this blog
-tag: random
+tag: Welcome
 author: Spritey
 ---
 
